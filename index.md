@@ -23,3 +23,11 @@ title: 作品ギャラリー
 ## 🤩 任意の人に任意のことを喋らせる装置
 ![任意の人に任意のことを喋らせる装置](images/fig3.jpg)  
 [▶️ 動画はこちら](https://www.youtube.com/watch?v=lDnROluvNLw)
+
+---
+
+## 📚 Idioms & Allusions
+英語の成句・典拠を学ぶための Web アプリ。  
+CSV を読み込み、成句・意味・由来・例文を表示し、英語音声で読み上げできます。  
+
+[▶ アプリを開く](https://katabomb.github.io/idioms-allusions/IdiomsAllusions.html)
