@@ -8,18 +8,18 @@ title: 作品ギャラリー
 
 ---
 
-## 🦀 メカナムすべり脚を使った全方向移動ロボ
-![M5Stackロボの写真](images/fig1.jpg)  
+## 🔆 メカナムすべり脚を使った全方向移動ロボ
+![メカナムすべり脚を使った全方向移動ロボの写真](images/fig1.jpg)  
 [▶️ 動画はこちら](https://www.youtube.com/watch?v=w93T7-Qr38A)
 
 ---
 
-## 🐙 OctoCrawler
-![OctoCrawlerの写真](https://example.com/octo.jpg)  
-[▶️ 動画はこちら](https://youtu.be/yyyy)
+## 🤖 BDXドロイド（廉価版） / BDX Droid (Budget Version)
+![BDXドロイド（廉価版） / BDX Droid (Budget Version)の写真](images/fig2.jpg)  
+[▶️ 動画はこちら](https://youtube.com/shorts/CpPAxEXGy38)
 
 ---
 
-## 🎮 micro:bitカー
-![micro:bitカー](https://example.com/car.jpg)  
-[▶️ 動画はこちら](https://vimeo.com/zzzz)
+## 🤩 任意の人に任意のことを喋らせる装置
+![任意の人に任意のことを喋らせる装置](images/fig3.jpg)  
+[▶️ 動画はこちら](https://www.youtube.com/watch?v=lDnROluvNLw)
