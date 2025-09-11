@@ -31,3 +31,13 @@ title: 作品ギャラリー
 CSV を読み込み、成句・意味・由来・例文を表示し、英語音声で読み上げできます。  
 
 [▶ アプリを開く](https://katabomb.github.io/idioms-allusions/IdiomsAllusions.html)
+
+---
+
+## 🏷️ Address Label Maker (Sample)
+愛媛県医療機関データ（ダミー）を使った宛名ラベル印刷 Web アプリ。  
+読み仮名で検索し、編集して、はがきや封筒用のラベルを印刷できます。  
+
+[▶ アプリを開く](https://katabomb.github.io/Address-Label-Maker-Sample/index.html)
+
+---
